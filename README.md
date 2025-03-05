@@ -16,12 +16,13 @@ The application is deployed on two platforms:
 - **Frontend**: Deployed on Vercel
   - **Deployed Link**: [https://tour-frontend-three.vercel.app/](https://tour-frontend-three.vercel.app/)
 - **Backend**: Deployed on Render
-  - (Add the backend deployed link here if available)
+ 
 
 ## Screen Captures
 Below are some screenshots showcasing the application’s key features. (Replace the placeholder links with actual links to your images hosted on GitHub or another platform like Imgur.)
 
-- **Home Page**:
+- **Home Page**: ![tour-frontend-three vercel app_home (2)](https://github.com/user-attachments/assets/fa5fc2b3-fc5e-4873-b241-618506b52720)
+
 
 
 - **Tours Page**: ![tour-frontend-three vercel app_tours_67c2ad9a601631570886efae (2)](https://github.com/user-attachments/assets/0e60908e-e1cd-41a9-b48d-8eb5b43497a0)
@@ -30,11 +31,10 @@ Below are some screenshots showcasing the application’s key features. (Replace
 - **Login Page**: ![tour-frontend-three vercel app_home (3)](https://github.com/user-attachments/assets/d13aaabb-fe27-4a63-9feb-b225ed66ba3e)
 
 
-- **User Register Form**:![Uploading tour-frontend-three.vercel.app_home (4).png…]()
+- **User Register Form**: ![Uploading tour-frontend-three.vercel.app_home (4).png…]()
 
 - 
-- **About**: 
-![Uploading tour-frontend-three.vercel.app_home (1).png…]()
+- **About**: ![Uploading tour-frontend-three.vercel.app_home (1).png…]()
 
 
 
@@ -71,8 +71,9 @@ Follow these steps to set up the project locally.
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone
+
+cd repo-name
 
 
 Backend Setup
@@ -183,23 +184,13 @@ Enhanced Search: Add more filters (e.g., price range, dates) to the search funct
 Performance Optimization: Lazy-load images and optimize API calls for faster loading.
 
 
-bash
-
-
-
-git config --global user.name "Vignesh D"
-git config --global user.email "kdvijay5128@gmail.com"
-To commit changes:
 
 bash
-
-
 
 git add README.md
 git commit -m "Add README with project details and deployment info"
 git push origin main
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 Contact
 For any inquiries or issues, please reach out:
