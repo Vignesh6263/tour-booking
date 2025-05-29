@@ -19,8 +19,7 @@ The application is deployed on two platforms:
  
 
 ## Screen Captures
-Below are some screenshots showcasing the application’s key features. (Replace the placeholder links with actual links to your images hosted on GitHub or another platform like Imgur.)
-
+Below are some screenshots showcasing the application’s key features. 
 - **Home Page**: ![tour-frontend-three vercel app_home (2)](https://github.com/user-attachments/assets/fa5fc2b3-fc5e-4873-b241-618506b52720)
 
 
